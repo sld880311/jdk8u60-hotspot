@@ -1,7 +1,9 @@
 ^build/
 ^dist/
-nbproject/private/
-^webrev
+/nbproject/private/
+^src/share/tools/hsdis/build/
+^src/share/tools/IdealGraphVisualizer/[a-zA-Z0-9]*/build/
+^src/share/tools/IdealGraphVisualizer/build/
+^src/share/tools/IdealGraphVisualizer/dist/
 ^.hgtip
-^.bridge2
 .DS_Store
